@@ -1,5 +1,5 @@
 # studyclubs
-[![Netlify Status](https://api.netlify.com/api/v1/badges/def175e4-2955-4ddf-86b4-6876a3e0233b/deploy-status)](https://app.netlify.com/sites/studyclubs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/edfda092-d1be-40de-b234-27d58cbfeb82/deploy-status)](https://app.netlify.com/sites/studyclub/deploys)
 
 
 <h1 align="center">Hi 👋, I'm Kaushalendra</h1>
